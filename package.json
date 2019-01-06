@@ -1,0 +1,14 @@
+{
+  "name": "basic-electron",
+  "version": "1.0.0",
+  "description": "this is a basic electron project repo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "extinctCoder",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.1"
+  }
+}
